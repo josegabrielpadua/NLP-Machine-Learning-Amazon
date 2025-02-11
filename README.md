@@ -115,3 +115,4 @@ print(df_previsoes)
 
 O modelo conseguiu identificar o que é uma análise negativa ou positiva. 
 
+Claro que isso foi uma análise dos produtos em geral.
